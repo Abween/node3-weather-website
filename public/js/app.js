@@ -1,8 +1,3 @@
-
-console.log('test javascript loading');
-
-
-
 const weatherform =document.querySelector('form');
 const search = document.querySelector('input');
 const messageOne= document.querySelector('#message-1');
